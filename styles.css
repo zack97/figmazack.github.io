@@ -62,6 +62,17 @@ article {
 .details {
   padding: 15px;
 }
+
+.details h3 {
+  font-size: 14px;
+  line-height: 16.41px;
+}
+
+.details p {
+  font-weight: 300px;
+  font-size: 14px;
+  line-height: 16.41px;
+}
 .div ul {
   list-style: none;
 }
